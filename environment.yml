@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - appmode
+  - networkx==1.11
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - ipywidgets
